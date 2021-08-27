@@ -1,0 +1,53 @@
+body {
+    border: coral solid 10px;
+    width: auto;
+    height: auto;
+    background-color:lavender;
+}
+
+#logo {
+    text-align: left;
+    background-color: cornflowerblue;
+    margin: auto;
+    padding: 10px;
+          
+   
+    
+}
+
+#lista {
+    text-align: right;
+    background-color: cornflowerblue;
+    padding: 5px;
+    padding-bottom: 10px;
+   
+}
+
+li {
+    display: inline;
+    padding: 10px 50px;
+    
+}
+
+nav{
+    background-color: cornflowerblue;
+}
+
+
+#col1, #col2, #col3, #col4, #col5, #col6 {
+       background-color: azure;
+       margin: 10px;
+       padding: 150px;                  
+
+}
+
+#colpai {
+    justify-content: center;
+    display: flex;
+}
+
+footer {
+    text-align: left;
+    background-color: cornflowerblue;
+    padding: 10px;
+}
